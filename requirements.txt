@@ -1,7 +1,0 @@
-pandas
-numpy
-spacy
-pyresparser
-pdfplumber
-sentence-transformers
-faiss-cpu
